@@ -67,7 +67,7 @@ return () => {
   ))}
 </section>
 
-<footer>
+<footer className="footer">
   Feito com amor por Laís Malta Dalpozur
 </footer>
 
