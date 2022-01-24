@@ -11,3 +11,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS](https://www.w3schools.com/css/)
 - [API](themoviedb.org)
 
+Para rodar, pode ser via npm i e npm start. 
